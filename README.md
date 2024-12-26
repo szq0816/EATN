@@ -1,4 +1,4 @@
-# DATN
+# EATN
 
 The paper titled "**Efficient Attention Transformer Network with Self-Similarity Feature Enhancement for Hyperspectral Image Classification**" 
 
