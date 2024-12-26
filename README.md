@@ -14,7 +14,7 @@ Epoch: 100
 
 Batch Size: 64
 
-Patch Size: IP & HU:$11\times11$ ;  XZ & HC:$13\times13$
+Patch Size: IP & HU: $11\times11$ ;  XZ & HC: $13\times13$
 
 Optimizer: Adam (weight_decay=1e-4)
 
